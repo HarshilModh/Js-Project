@@ -1,5 +1,4 @@
-  
-.choice-container {
+  .choice-container {
     display: flex;
     margin-bottom: 0.5rem;
     width: 100%;
@@ -17,7 +16,7 @@
   
   .choice-prefix {
     padding: 1.5rem 2.5rem;
-    background-color: #56a5eb;
+    background-color: #349fad;
     color: white;
   }
   
@@ -103,5 +102,5 @@
   }
   
   input::placeholder {
-    color: #aaa;
+    color: rgb(236, 228, 228);
   }
